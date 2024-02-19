@@ -13,8 +13,8 @@ This simple yet handy Age Calculator is a project inspired by CodeWithRandom. It
 - **Responsive Design:** Ensures a seamless experience across various devices.
 
 ## Screenshot
+![Age Calculator](https://github.com/shrugi/Age-Calculator/assets/119075148/cdcd11de-dbac-4577-a098-026be19118ca)
 
-![Age Calculator Screenshot](Age Calculator.png)
 
 ## How to Use
 
