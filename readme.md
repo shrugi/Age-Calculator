@@ -1,6 +1,6 @@
 # Age Calculator
 
-Welcome to the Age Calculator project! 👋shrugi.github.io/Age-Calculator/
+Welcome to the Age Calculator project! 👋 shrugi.github.io/Age-Calculator/
 
 ## Introduction
 
